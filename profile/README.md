@@ -51,5 +51,3 @@ If you have questions, suggestions, or a project you’d like to see resurrected
 Together, we’re making tried-and-true security tools available to the community—now and in the future. 
 
 **Let’s resurrect the tools that matter!** 🔄💻
-
----
