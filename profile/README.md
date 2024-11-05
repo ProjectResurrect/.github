@@ -1,7 +1,3 @@
-Here's a suggested README for your ProjectResurrect GitHub organization page:
-
----
-
 # ProjectResurrect
 
 **Reviving and enhancing powerful open-source security tools to help defend against modern threats.**
